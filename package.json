@@ -1,0 +1,8 @@
+{
+  "name": "type-challenges-solutions",
+  "devDependencies": {
+    "@type-challenges/utils": "^0.1.1",
+    "@types/node": "^20.12.11",
+    "typescript": "^5.4.5"
+  }
+}
